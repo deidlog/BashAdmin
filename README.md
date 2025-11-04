@@ -1,4 +1,4 @@
-# Linux Scripts
+# bash-admin
 
 A collection of useful Bash scripts for DevOps and Linux administration tasks.  
 Each script is self-contained and designed to be practical, clean, and easy to use.
@@ -13,7 +13,7 @@ Each script is self-contained and designed to be practical, clean, and easy to u
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/deidlog/linux-scripts.git
+git clone https://github.com/deidlog/bash-admin.git
 cd linux-scripts
 ```
 2. Make any script executable and run it:
